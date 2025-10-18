@@ -68,7 +68,7 @@ namespace Grid
             bool isLight = (x + y) % 2 == 0;
             sr.color = isLight ? lightCellColor : darkCellColor;
 
-            sr.sortingOrder = -2; // Под всем
+            sr.sortingOrder = 2;
         }
 
         /// <summary>

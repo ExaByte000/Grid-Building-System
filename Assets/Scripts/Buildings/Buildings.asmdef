@@ -1,6 +1,10 @@
 {
     "name": "Buildings",
-    "references": ["Core", "Grid"],
+    "references": [
+        "Core",
+        "Grid",
+        "Data"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false

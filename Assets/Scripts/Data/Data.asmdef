@@ -1,3 +1,10 @@
 {
-	"name": "Data"
+    "name": "Data",
+    "references": [
+        "Core",
+        "Grid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
 }
