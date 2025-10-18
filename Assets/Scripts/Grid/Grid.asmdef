@@ -1,0 +1,10 @@
+{
+    "name": "Grid",
+    "references": [
+        "Core",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

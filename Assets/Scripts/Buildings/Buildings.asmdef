@@ -1,0 +1,7 @@
+{
+    "name": "Buildings",
+    "references": ["Core", "Grid"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
