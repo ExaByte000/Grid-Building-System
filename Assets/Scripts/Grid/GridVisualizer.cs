@@ -1,7 +1,6 @@
 using UnityEngine;
 
-namespace Grid
-{
+
     /// <summary>
     /// Отвечает за визуализацию сетки
     /// </summary>
@@ -143,4 +142,3 @@ namespace Grid
             }
         }
     }
-}

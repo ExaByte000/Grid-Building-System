@@ -211,27 +211,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: House A0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 35
-        width: 32
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51b457af892511a60800000000000000
-      internalID: 7642980859614939925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Tree 0
       rect:
         serializedVersion: 2
@@ -274,12 +253,33 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: House A4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fcb308060013a00800000000000000
+      internalID: 734368628706365288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: House B4
       rect:
         serializedVersion: 2
         x: 34
         y: 35
-        width: 32
+        width: 31
         height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
